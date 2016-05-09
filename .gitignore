@@ -58,5 +58,12 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
+
+# Datasets
+assignment1/cs231n/datasets/cifar-10-batches-py/
+assignment2/cs231n/datasets/cifar-10-batches-py/
+assignment3/cs231n/datasets/coco_captioning/
+assignment3/cs231n/datasets/tiny-imagenet-100-A/
+assignment3/cs231n/datasets/pretrained_model.h5
